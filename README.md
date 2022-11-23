@@ -1,4 +1,4 @@
-<H1>Hello there/Olá você aí</H1>
+<H1>Hello there</H1>
 
 <H2> I'm studyng Mecatronic Engineering at FIAP - São Paulo, Brazil. / Eu estou estudando Engenharia Mecatrônica na FIAP - São Paulo, Brazil. </H2>
 
