@@ -2,7 +2,7 @@
 
 <H2> I'm studyng Mecatronic Engineering at FIAP - São Paulo, Brazil. / Eu estou estudando Engenharia Mecatrônica na FIAP - São Paulo, Brazil. </H2>
 
-> Mechatronics technician / Técnico em Mecatrônica
+> Mecatronics technician / Técnico em Mecatrônica
 >
 > Mecatronics Engeneering studant / Estudante de Engenharia Mecatrônica
 
@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in python, C++, C#, JavaScrpit and microllers. / Eu estou interessado em python, C++, C#, JavaScrpit e Microcontroladores.
 
-- 🌱 I’m currently learning Python, JavaScrpit and IoT systems. / Eu estou atualmente aprendendo Python, JavaScrpit e sistema IoT
+- 🌱 I’m currently learning Python, JavaScrpit, C#, AI and IoT systems. / Eu estou atualmente aprendendo Python, JavaScrpit, C#, IA e sistema IoT
 
 - 💞️ I’m looking to collaborate on Open Source projects to gain more knowledge and experience. / Eu estou procurando trabalhar em projetos Open Source para ganhar mais conhecimento e experiência.
 
