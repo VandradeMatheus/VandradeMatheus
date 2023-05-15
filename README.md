@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in python, C++, C#, JavaScrpit and microllers. / Eu estou interessado em python, C++, C#, JavaScrpit e Microcontroladores.
 
-- 🌱 I’m currently learning Python, JavaScrpit, C#, AI and IoT systems. / Eu estou atualmente aprendendo Python, JavaScrpit, C#, IA e sistema IoT
+- 🌱 I’m currently learning Python, JavaScrpit, C#, AI, IoT systems and 3D modeling. / Eu estou atualmente aprendendo Python, JavaScrpit, C#, IA, sistema IoT e modelagem 3D.
 
 - 💞️ I’m looking to collaborate on Open Source projects to gain more knowledge and experience. / Eu estou procurando trabalhar em projetos Open Source para ganhar mais conhecimento e experiência.
 
